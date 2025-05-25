@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyushsahu
 - 👀 I’m interested in full stack web and app development
-- 🌱 I’m currently learning full stack web development from codeacademy
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on different front and backend development
 - 📫 How to reach me: You can reach out to me by contacting on my email id and my linkdin id
 
