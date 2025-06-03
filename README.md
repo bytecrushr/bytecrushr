@@ -1,3 +1,9 @@
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
 - 👋 Hi, I’m @Piyushsahu
 - 👀 I’m interested in full stack web and app development
 - 💞️ I’m looking to collaborate on different front and backend development
